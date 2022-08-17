@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/minas-todo-app/static/css/main.c8732f5f.css",
+    "main.js": "/minas-todo-app/static/js/main.0278d811.js",
+    "static/js/787.fc82377b.chunk.js": "/minas-todo-app/static/js/787.fc82377b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/minas-todo-app/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/minas-todo-app/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/minas-todo-app/index.html",
+    "main.c8732f5f.css.map": "/minas-todo-app/static/css/main.c8732f5f.css.map",
+    "main.0278d811.js.map": "/minas-todo-app/static/js/main.0278d811.js.map",
+    "787.fc82377b.chunk.js.map": "/minas-todo-app/static/js/787.fc82377b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8732f5f.css",
+    "static/js/main.0278d811.js"
+  ]
+}
