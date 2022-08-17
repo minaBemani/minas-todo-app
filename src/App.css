@@ -1,0 +1,47 @@
+.bg-color {
+  background-color: #fff !important;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.bg-color:hover {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.input-width {
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.select-width {
+  width: 150px;
+}
+
+.icon-style {
+  font-size: 20px;
+  color: #0dcaf0;
+}
+.icon-style:hover {
+  color: #089fbd;
+}
+
+@media only screen and (min-width: 750px) {
+  .my-responsive {
+    display: flex;
+    justify-content: center;
+  }
+  .input-width {
+    width: 450px;
+    margin-right: 30px;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .input-width {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .select-width {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+}
